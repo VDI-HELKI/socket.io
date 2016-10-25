@@ -1,5 +1,5 @@
 {
-  "name": "socket.io",
+  "name": "socket_mine.io",
   "version": "1.5.1",
   "description": "node.js realtime framework server",
   "keywords": [
